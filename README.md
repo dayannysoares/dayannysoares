@@ -1,8 +1,8 @@
 ### Olá, Eu sou a Dayanny! 😄
 
 - 🎓 Cursando Ciência da Computação pela UFPB.
-- 🔭 Developer back-end working.
-- 🧐 Atualmente estou estudando Java e Python.
+- 🔭 Data Scientist Working.
+- 🧐 Atualmente estou estudando Python e R.
 
 <div align="center">
   <a href="https://github.com/dayannysoares">
