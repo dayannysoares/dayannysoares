@@ -2,7 +2,8 @@
 
 - 🎓 Cursando Ciência da Computação pela UFPB.
 - 🔭 Data Scientist Working.
-- 🧐 Atualmente estou estudando Python e R.
+- 🤓 Aspirante a Ethical Hacker.
+- 🧐 Atualmente estou estudando Python, Análise de Dados e R.
 
 <div align="center">
   <a href="https://github.com/dayannysoares">
